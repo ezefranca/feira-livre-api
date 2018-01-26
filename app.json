@@ -1,0 +1,8 @@
+{
+  "name": "Feira Livre SP",
+  "description": "Webservice da lista de feiras livres em São Paulo - SP.",
+  "repository": "https://github.com/ezefranca/feira-livre-api",
+  "logo": "https://raw.githubusercontent.com/ezefranca/feira-livre-api/master/views/banner.png",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
